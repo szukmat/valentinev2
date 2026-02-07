@@ -8,6 +8,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     yes.addEventListener("click", () => {
-        window.location.href = "mailto:szukmat@gmail.com?subject=TAK&body=Kliknęłam%20TAK";
+        window.location.href = "https://youtu.be/dQw4w9WgXcQ";
     });
 });
